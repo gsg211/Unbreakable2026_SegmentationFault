@@ -14,8 +14,12 @@ We are Segmentation fault. We are a team of passionate students at Gheoghe Asach
 
 ### Team:
 
-Gorea Sabin-Gabriel:  [github profile](https://github.com/gsg211)
+Gorea Sabin-Gabriel:  [github profile](https://github.com/gsg211) 
+<br>
+<br>
 Mandache Toni:  [github profile](https://github.com/Toni-Mandache)
+<br>
+<br>
 Giugiuc Andrei-Calin
 
 ![unbreakable logo](res/unbreakable.png)
