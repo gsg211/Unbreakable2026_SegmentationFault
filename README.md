@@ -18,7 +18,7 @@ Gorea Sabin-Gabriel:  [github profile](https://github.com/gsg211)
 Mandache Toni:  [github profile](https://github.com/Toni-Mandache)
 <br>
 <br>
-Giugiuc Andrei-Calin  [github profile](https://github.com/Andrei-itwizard)
+Giugiuc Andrei-Calin:  [github profile](https://github.com/Andrei-itwizard)
 <br>
 <br>
 ![unbreakable logo](res/unbreakable.png)
